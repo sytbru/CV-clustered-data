@@ -10,7 +10,7 @@
 
   *********** DATA ***********
 
-  The input data are supposed to be in a directory "data_in". The data can be 
+  The input data are supposed to be in a directory "data". The data can be 
   downloaded from Zenodo: DOI:10.5281/zenodo.6513429
 
      agb.tif       = above ground biomass (AGB) map
